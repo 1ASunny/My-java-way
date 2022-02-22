@@ -1,8 +1,0 @@
-快捷键
-& psvm:主函数
-& sout:打印；“hello".sout也可以
-& ctrl+d 复制一行
-& ctrl+y/s 删除
-& ctrl+alt+l 调整格式
-& ctrl+/ 注释
-
